@@ -1,0 +1,30 @@
+.logo {
+  left: 20px;
+  position: absolute;
+  font-size: 70px;
+}
+.navlinks {
+  right: 25px;
+  padding-top: 26px;
+  position: absolute;
+}
+.navlinks a {
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  padding-left: 15px;
+  padding-right: 23px;
+}
+
+.home a{
+  color: white;
+
+}
+
+.driver {
+  position: relative;
+  padding-bottom: 30px;
+}
+.driver a{
+  color: purple;
+}

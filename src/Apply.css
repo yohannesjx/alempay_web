@@ -1,0 +1,20 @@
+.left {
+  left: 20px;
+}
+.applylinks {
+  padding-top: 20px;
+  right: 20px;
+  height: 100px;
+}
+.applylinks a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.flex-container-apply {
+  display: flex;
+}
+
+.applylinks button {
+  margin: 0px;
+}

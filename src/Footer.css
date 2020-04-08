@@ -1,0 +1,30 @@
+.flex-container-footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  background-color: #F7F7F7;
+}
+
+.flex-container-footer button {
+  margin-top: 30px;
+}
+.flex-container-footer h5 {
+  padding-bottom: 25px
+}
+
+.flex-cols  {
+  padding-left: 0px;
+  min-width: 50px;
+}
+
+.flex-add {
+  text-align: left;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+
+a {
+  color:#000000;
+  text-decoration: none;
+}
