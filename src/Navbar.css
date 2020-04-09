@@ -9,22 +9,21 @@
   position: absolute;
 }
 .navlinks a {
-  color: white;
+  color: #00baff;
   font-size: 17px;
   font-weight: bold;
   padding-left: 15px;
   padding-right: 23px;
 }
 
-.home a{
-  color: white;
-
+.home a {
+  color: #1e82d2;
 }
 
 .driver {
   position: relative;
   padding-bottom: 30px;
 }
-.driver a{
+.driver a {
   color: purple;
 }
